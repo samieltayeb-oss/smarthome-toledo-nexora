@@ -21,6 +21,9 @@ const bodoniModa = Bodoni_Moda({
 export const metadata: Metadata = {
   title: "Smart Home Toledo",
   description: "Lighting, shades, entertainment and security, thoughtfully connected.",
+  icons: {
+    icon: '/images/smart-home-logo-new.png',
+  }
 };
 
 export default function RootLayout({
