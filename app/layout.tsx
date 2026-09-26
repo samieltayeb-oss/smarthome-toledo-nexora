@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   title: "Smart Home Toledo",
   description: "Lighting, shades, entertainment and security, thoughtfully connected.",
   icons: {
-    icon: '/images/smart-home-logo-new.png',
+    icon: '/images/logo03.png',
   }
 };
 
